@@ -1,0 +1,1 @@
+El proyecto se encarga de mantener información actualizada sobre la conversión de distintas monedas a dólares. En la interfaz de usuario, se solicita al usuario ingresar el tipo de moneda y el monto que desea convertir, junto con la moneda a la cual desea realizar la conversión. Luego, el proyecto devuelve el monto convertido a la moneda seleccionada por el usuario.
